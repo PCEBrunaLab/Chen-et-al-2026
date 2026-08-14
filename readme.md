@@ -1,4 +1,4 @@
-# Integrated Lineage Tracing and Single-Cell Multiomics Identifies a Plasticity-Proliferation Axis That Drives Treatment Adaptation in Hepatoblastoma
+# Integrated Lineage Tracing in Hepatoblastoma Finds a Plasticity-Proliferation Axis That Drives Post-Treatment Adaptation
 
 ## Abstract
 Hepatoblastoma (HB) has one of the lowest mutational burdens among childhood cancers, limiting the role of genetic selection. Nevertheless ~20% of patients relapse, implicating non-genetic mechanisms, such as phenotypic plasticity, in treatment adaptation. The temporal and clonal dynamics of post-treatment plasticity in HB remain poorly defined. Here, we integrate expressed DNA barcoding approaches with single-cell multiomics in preclinical models to simultaneously trace clonal and phenotypic dynamics following cisplatin treatment.\
